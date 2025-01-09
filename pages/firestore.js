@@ -79,7 +79,7 @@ export default function FirestorePage() {
 
     return (
         <div style={{ padding: "20px" }}>
-            <h1>Firestore Text Storage</h1>
+            <h1>Text Storage</h1>
 
             {user && (
                 <div>
